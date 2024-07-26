@@ -1,0 +1,24 @@
+.card{
+  background-color: LightGray;
+  
+  margin: 20px auto;
+
+  width: 85%;
+  height: 70vh;
+
+
+  padding: 80px;
+
+  border-radius: 35px;
+
+  display: flex;
+  justify-content: center;
+
+  gap: 150px;
+
+}
+
+.foto{
+  max-width: 100%;
+  height: 100%;
+}
